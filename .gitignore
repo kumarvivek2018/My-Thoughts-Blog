@@ -1,3 +1,8 @@
+*.pyc
+*~
+/.vscode
+__pycache__
 myvenv
-__pycache__/
-*.py[cod]
+/static
+.DS_Store
+MyThoughts/db.sqlite3
